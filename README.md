@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/src/assets/logo.svg" height="190">
+  <source media="(prefers-color-scheme: light)" srcset="docs/src/assets/logo.svg" height="190">
+  <img alt="" src="" height="190">
+</picture>
+
 # SimpleSyntheticFlightPaths
 
 [![Build Status](https://github.com/joskna/SimpleSyntheticFlightPaths.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/joskna/SimpleSyntheticFlightPaths.jl/actions/workflows/CI.yml?query=branch%3Amaster)
