@@ -95,4 +95,4 @@ Pkg.test("SimpleSyntheticFlightPaths")
 
 ## License
 
-Add your license here (e.g. MIT).
+MIT
